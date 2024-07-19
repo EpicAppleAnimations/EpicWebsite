@@ -1,0 +1,76 @@
+/*Styling for entire Doc*/
+*{
+    background-color: green;
+    margin: 3;
+    Padding: 0;
+    color: black;
+    font-family: "Georgia";
+     text-align: center; 
+  }
+  
+  
+  h1 {
+    padding: 20px;
+    font-size: 40px;
+  }
+  
+  img{
+    border: black solid;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 10px;
+     background-image: url("https://img.freepik.com/premium-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1165532-40079.jpg");
+    text-align: center;
+    background-size:cover;  
+  }
+  .body-text{
+    color: black;
+     
+  }
+  a:hover {
+    color: blue;
+  }
+  .fun-facts{
+    margin: 15px;
+    border: black dashed;
+    padding : 10px;
+    width: 50%;
+    border-radius: 50px;
+  text-align: center;
+    background-image: url("https://img.freepik.com/premium-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1165532-40079.jpg");
+    text-align: center;
+    background-size:cover;   
+  }
+  .About{
+    border: black dashed;
+    width: 20%;
+    border-radius: 25px;
+    padding: 10px;
+     background-image: url("https://img.freepik.com/premium-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1165532-40079.jpg");
+    text-align: center;
+    background-size:cover;
+      
+  }
+  
+  .side-by-side{
+    
+   background-image: url("https://img.freepik.com/premium-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1165532-40079.jpg");
+    text-align: center;
+    background-size:cover;   
+   
+  }
+  .two{
+    border: black dashed;
+      padding: 20px;
+    border-radius: 50px
+       
+  }
+  .side-by-side{
+    display:inline-block;
+    width: 49%;
+    
+  }
+  
+    
+  
+  
